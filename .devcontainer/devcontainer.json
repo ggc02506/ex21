@@ -3,7 +3,7 @@
     "dockerComposeFile":"docker-compose.yml",
     "service": "python",
     "workspaceFolder": "/tmp/work",
-    "remoteUser": "macair2020",
+    "remoteUser": "/Users/macair2020",
     "extensions": [
         "ms-python.python"
     ],
